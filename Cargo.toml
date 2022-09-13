@@ -10,7 +10,7 @@ license = "BSD 3-Clause"
 readme = "README.md"
 
 repository = "https://github.com/jameshtwose/jmspack-rust"
-documentation = ""
+documentation = "https://docs.rs/jmspack/latest/jmspack/"
 
 description = "Rust crate of functions that James finds useful."
 
