@@ -6,7 +6,7 @@ rust-version = "1.56.0"
 authors = [
   "James Twose"
 ]
-license = "BSD 3-Clause"
+license = "BSD-3-Clause"
 readme = "README.md"
 
 repository = "https://github.com/jameshtwose/jmspack-rust"
