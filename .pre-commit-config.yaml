@@ -1,11 +1,11 @@
--   repo: https://github.com/doublify/pre-commit-rust
-    rev: master
-    hooks:
-    -   id: fmt
-    -   id: cargo-check
-    -   id: clippy
+- repo: https://github.com/doublify/pre-commit-rust
+  rev: master
+  hooks:
+  - id: fmt
+  - id: cargo-check
+  - id: clippy
 - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
-  rev: ${LATEST_SHA_OR_VERSION}
+  rev: master
   hooks:
   - id: pretty-format-rust
     args: [--autofix]
